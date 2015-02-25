@@ -1,3 +1,3 @@
 # An Introduction to Interactive Programming in Python
-# A Rice University Coursera Project
+  Rice University Coursera mini-Project
 
